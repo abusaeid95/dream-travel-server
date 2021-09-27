@@ -11,6 +11,8 @@
 }
 .person-container:hover{
     border:2px solid rgb(245, 161, 7);
+    transition: 0.5s;
+    transform: scale(1.02);
 }
 .button{
     background-color: rgb(245, 161, 7);
