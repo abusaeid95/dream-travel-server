@@ -17,7 +17,8 @@ const Person = (props) => {
           <Rating
             initialRating={rating}
             emptySymbol="far fa-star icon-color"
-            fullSymbol="fa fa-star icon-color">
+            fullSymbol="fa fa-star icon-color"
+            readonly>
           </Rating>
           <h5>Rate: ${rate}</h5>
           <button onClick={() => props.countHandle(props.person)} className='button'> {fontIcon} Purchase Design</button>
