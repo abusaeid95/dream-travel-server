@@ -1,0 +1,14 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin: 20px 20px;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #2d5374;
+    padding: 10px;
+    grid-gap: 2vh;
+    color: white;
+    border-right: 2px solid black;
+}

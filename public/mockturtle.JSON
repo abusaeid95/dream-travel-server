@@ -1,0 +1,272 @@
+[
+    {
+        "name": "Lillie Lang",
+        "key": "48c04484-87f0-4a39-9f1d-9a5c5e45751e",
+        "role": "Architectural Designer",
+        "experience": "1 year",
+        "rate": 4500,
+        "image": "https://randomuser.me/api/portraits/men/20.jpg",
+        "rating": "4.7" 
+    },
+    {
+        "name": "Victoria Braun",
+        "key": "82f78b09-58a8-4344-b827-d15fa129fba3",
+        "role": "Solution Architect",
+        "experience": "1 year",
+        "rate": 5200,
+        "image": "https://randomuser.me/api/portraits/men/67.jpg",
+        "rating": "4.8"
+    },
+    {
+        "name": "Stephanie Kunze",
+        "key": "c9290ae9-bd79-482a-9898-8471832b987f",
+        "role": "Senior Architectural/Interior Designer",
+        "experience": "3 years",
+        "rate": 12000,
+        "image": "https://randomuser.me/api/portraits/men/26.jpg",
+        "rating": "4.9"
+    },
+    {
+        "name": "Willie Schaden",
+        "key": "404640f7-0a1e-41c0-ad39-a1798d62c610",
+        "role": "Lead Network Architect",
+        "experience": "2 years",
+        "rate": 8500,
+        "image": "https://randomuser.me/api/portraits/men/23.jpg",
+        "rating": "3.5"
+    },
+    {
+        "name": "Javier Brown",
+        "key": "07ff1742-03a0-4bfe-b216-91814ac83b6e",
+        "role": "Senior Principal, Network Architect",
+        "experience": "8 years",
+        "rate": 13000,
+        "image": "https://randomuser.me/api/portraits/men/19.jpg",
+        "rating": "5.00"
+    },
+    {
+        "name": "Connie Ritchie",
+        "key": "bbbd18e3-1038-407f-bb43-20871ce25709",
+        "role": "Principal Software Architect",
+        "experience": "9 years",
+        "rate": 25000,
+        "image": "https://randomuser.me/api/portraits/men/16.jpg",
+        "rating": "3.8"
+    },
+    {
+        "name": "Kristie Gaylord",
+        "key": "d728dff6-242d-4ded-bb89-35fe2d63b056",
+        "role": "Senior Architectural Designer",
+        "experience": "9 years",
+        "rate": 30000,
+        "image": "https://randomuser.me/api/portraits/men/8.jpg",
+        "rating": "5.00"
+    },
+    {
+        "name": "Marvin Cronin",
+        "key": "cc3ccf22-bdc3-4888-860f-c7119d569084",
+        "role": "Customer Success Architect",
+        "experience": "3 years",
+        "rate": 9000,
+        "image": "https://randomuser.me/api/portraits/men/88.jpg",
+        "rating": "4.8"
+    },
+    {
+        "name": "Myron Kassulke",
+        "key": "15d0a38d-5977-40fa-9af4-7839683d4892",
+        "role": "Architectural Designer",
+        "experience": "2 years",
+        "rate": 6500,
+        "image": "https://randomuser.me/api/portraits/men/93.jpg",
+        "rating": "4.7"
+    },
+    {
+        "name": "Constance Schamberger",
+        "key": "3cd6a9f5-fe30-4e60-ae53-69b7846acab3",
+        "role": "Sales Consultant & Architect",
+        "experience": "7 years",
+        "rate": 15000,
+        "image": "https://randomuser.me/api/portraits/men/83.jpg",
+        "rating": "4.9"
+    },
+    {
+        "name": "Laverne Jakubowski",
+        "key": "7c8a4992-c5a6-4527-b3e8-bde8630d24e0",
+        "role": "Interior Designer",
+        "experience": "3 years",
+        "rate": 11000,
+        "image": "https://randomuser.me/api/portraits/men/77.jpg",
+        "rating": "4.6"
+    },
+    {
+        "name": "Natasha Quigley",
+        "key": "4602b26a-7d19-4299-a614-a8b9d6a7e591",
+        "role": "Principle Security Architect",
+        "experience": "6 years",
+        "rate": 24000,
+        "image": "https://randomuser.me/api/portraits/men/74.jpg",
+        "rating": "4.9"
+    },
+    {
+        "name": "June Ledner",
+        "key": "aebef263-f303-406c-9bb2-c701cd25cde7",
+        "role": "Principal Architect",
+        "experience": "16 years",
+        "rate": 49000,
+        "image": "https://randomuser.me/api/portraits/men/71.jpg",
+        "rating": "5.00"
+    },
+    {
+        "name": "Glenda Aufderhar",
+        "key": "0a852246-99dc-4234-b740-b31d81552f6f",
+        "role": "Software Architect",
+        "experience": "15 years",
+        "rate": 40000,
+        "image": "https://randomuser.me/api/portraits/men/53.jpg",
+        "rating": "5.00"
+    },
+    {
+        "name": "Preston Gulgowski",
+        "key": "93174d80-ba26-4885-9dc9-63717c1cadce",
+        "role": "Architect Interior Residence",
+        "experience": "7 years",
+        "rate": 26000,
+        "image": "https://randomuser.me/api/portraits/men/55.jpg",
+        "rating": "4.9"
+    },
+    {
+        "name": "Ian Hickle",
+        "key": "de325d03-6d28-4bf6-86f5-48649ca2d9b2",
+        "role": "Senior Architectural Designer",
+        "experience": "6 years",
+        "rate": 22500,
+        "image": "https://randomuser.me/api/portraits/men/12.jpg",
+        "rating": "4.9"
+    },
+    {
+        "name": "Bruce Koss",
+        "key": "855fe986-c288-4ad7-9ec6-48748ba39418",
+        "role": "Architectural Associate ( Architectural Designer )",
+        "experience": "6 years",
+        "rate": 27000,
+        "image": "https://randomuser.me/api/portraits/men/18.jpg",
+        "rating": "4.9"
+    },
+    {
+        "name": "Josh Kling",
+        "key": "38eb44cb-5f94-4ab6-9d3a-3bcfcd5bdf18",
+        "role": "Architectural Project Designer",
+        "experience": "5 years",
+        "rate": 24500,
+        "image": "https://randomuser.me/api/portraits/men/21.jpg",
+        "rating": "4.9"
+    },
+    {
+        "name": "Gustavo Bauch",
+        "key": "a7b639e7-2cfc-44a0-8165-4feb3d6fcd45",
+        "role": "CAD Draftsman/ Architectural Designer/ Sketchup",
+        "experience": "3 years",
+        "rate": 9000,
+        "image": "https://randomuser.me/api/portraits/men/33.jpg",
+        "rating": "4.7"
+    },
+    {
+        "name": "Sylvia Lowe",
+        "key": "1bdc03c8-c7f9-47d7-96da-5c074ce9ae59",
+        "role": "Senior Lead Architectural Designer",
+        "experience": "5 years",
+        "rate": 13000,
+        "image": "https://randomuser.me/api/portraits/men/59.jpg",
+        "rating": "4.8"
+    },
+    {
+        "name": "Milton Bailey",
+        "key": "863bbb6d-5144-4805-8928-6451a9222611",
+        "role": "Design - Senior Architectural Designer",
+        "experience": "3 years",
+        "rate": 14500,
+        "image": "https://randomuser.me/api/portraits/men/49.jpg",
+        "rating": "4.9"
+    },
+    {
+        "name": "Sidney Yundt",
+        "key": "a5037e0e-a01e-4077-8443-3461be0dd63b",
+        "role": "Sr Architectural Designer",
+        "experience": "4 years",
+        "rate": 12500,
+        "image": "https://randomuser.me/api/portraits/men/38.jpg",
+        "rating": "4.8"
+    },
+    {
+        "name": "Robin Ondricka",
+        "key": "e40ff074-dc34-499b-aa36-7d15f577925d",
+        "role": "Sales support Architects",
+        "experience": "1 year",
+        "rate": 5000,
+        "image": "https://randomuser.me/api/portraits/men/87.jpg",
+        "rating": "4.5"
+    },
+    {
+        "name": "Kelly Friesen",
+        "key": "17d3171b-6700-4a2a-910f-3c57a5876e79",
+        "role": "Intermediate Architectural Designer",
+        "experience": "2 years",
+        "rate": 6200,
+        "image": "https://randomuser.me/api/portraits/men/14.jpg",
+        "rating": "4.6"
+    },
+    {
+        "name": "Krista Metz",
+        "key": "90d6c8ef-8600-4052-a943-4f3c7e495986",
+        "role": "Jr Interior Designer",
+        "experience": "1 year",
+        "rate": 5700,
+        "image": "https://randomuser.me/api/portraits/men/32.jpg",
+        "rating": "4.7"
+    },
+    {
+        "name": "Sheryl Zieme",
+        "key": "255e945e-17e0-494f-aa0e-9841041083ac",
+        "role": "Architectural Designer - High Rise",
+        "experience": "1 year",
+        "rate": 5500,
+        "image": "https://randomuser.me/api/portraits/men/28.jpg",
+        "rating": "4.6"
+    },
+    {
+        "name": "Shirley Waters",
+        "key": "87e778ec-f802-4be4-bb41-72557aadb523",
+        "role": "Architectural Designer",
+        "experience": "1 year",
+        "rate": 4800,
+        "image": "https://randomuser.me/api/portraits/men/24.jpg",
+        "rating": "4.6"
+    },
+    {
+        "name": "Christine King",
+        "key": "baff1740-da7a-45cf-83ff-bf79eddedf12",
+        "role": "Project Architect",
+        "experience": "2 years",
+        "rate": 6600,
+        "image": "https://randomuser.me/api/portraits/men/35.jpg",
+        "rating": "4.7"
+    },
+    {
+        "name": "Angela Wilkinson",
+        "key": "826e95e9-12e7-4e04-9863-68040bb42653",
+        "role": "Sr. Architectural Designer",
+        "experience": "1 year",
+        "rate": 5800,
+        "image": "https://randomuser.me/api/portraits/men/44.jpg",
+        "rating": "4.7"
+    },
+    {
+        "name": "Oscar Glover",
+        "key": "3f1048e7-e98f-425d-9402-3887dcbeb7ac",
+        "role": "Senior Information Technology Architectart",
+        "experience": "2 years",
+        "rate": 6200,
+        "image": "https://randomuser.me/api/portraits/men/57.jpg",
+        "rating": "4.6"
+    }
+]
